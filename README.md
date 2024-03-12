@@ -7,6 +7,8 @@ This repository contain Data Analysis with SQL on various dataset.
 
 This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition.](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)  
 
+While exploring data below questions were answered.
+
 #### Generic Question
   1. How many unique cities does the data have?
   2. In which city is each branch?
